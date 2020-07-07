@@ -1,1 +1,1 @@
-const GIPHY_KEY = 'PUT_YOUR_GIPGY_KEY_HERE';
+const GIPHY_KEY = "2aVskCKR2AZtIZ2KDvDfsY5o5sxSdFao";
